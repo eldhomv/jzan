@@ -1,7 +1,7 @@
 [
 
 	{
-		"author": "EldhoMV",
+		"author": "Eldho",
 		"collections": "Amoled",
 		"copyright": "Personal Use Only",
 		"name": "Amoled 1",
@@ -10,7 +10,7 @@
 	},
 
 	{
-		"author": "EldhoMV",
+		"author": "Eldho",
 		"collections": "Amoled",
 		"copyright": "Personal Use Only",
 		"name": "Amoled 2",
@@ -19,7 +19,7 @@
 	},
 
 	{
-		"author": "EldhoMV",
+		"author": "Eldho",
 		"collections": "Amoled",
 		"copyright": "Personal Use Only",
 		"name": "Amoled 3",
@@ -28,7 +28,7 @@
 	},
 
 	{
-		"author": "EldhoMV",
+		"author": "Eldho",
 		"collections": "Amoled",
 		"copyright": "Personal Use Only",
 		"name": "Amoled 4",
@@ -37,7 +37,7 @@
 	},
 
 	{
-		"author": "EldhoMV",
+		"author": "Eldho",
 		"collections": "Amoled",
 		"copyright": "Personal Use Only",
 		"name": "Amoled 5",
@@ -46,7 +46,7 @@
 	},
 
 	{
-		"author": "EldhoMV",
+		"author": "Eldho",
 		"collections": "Amoled",
 		"copyright": "Personal Use Only",
 		"name": "Amoled 6",
@@ -55,7 +55,7 @@
 	},
 
 	{
-		"author": "EldhoMV",
+		"author": "Eldho",
 		"collections": "Amoled",
 		"copyright": "Personal Use Only",
 		"name": "Amoled 7",
@@ -64,12 +64,75 @@
 	},
 
 	{
-		"author": "EldhoMV",
+		"author": "Eldho",
 		"collections": "Amoled",
 		"copyright": "Personal Use Only",
 		"name": "Amoled 8",
 		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/amoled/amoled_13.jpg",
 		"url": "https://github.com/eldhomv/Hmm/raw/main/amoled/amoled_13.png"
-	}
+	},
+	
+	{
+		"author": "Eldho",
+		"collections": "New Dimensions",
+		"copyright": "Personal Use Only",
+		"name": "ND 1",
+		"thumbnail": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions.jpg",
+		"url": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions.png"
+	},
+	
+	{
+		"author": "Eldho",
+		"collections": "New Dimensions",
+		"copyright": "Personal Use Only",
+		"name": "ND 2",
+		"thumbnail": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions_1.jpg",
+		"url": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions_1.png"
+	},
+	
+	{
+		"author": "Eldho",
+		"collections": "New Dimensions",
+		"copyright": "Personal Use Only",
+		"name": "ND 3",
+		"thumbnail": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions_2.jpg",
+		"url": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions_2.png"
+	},
+	
+	{
+		"author": "Eldho",
+		"collections": "New Dimensions",
+		"copyright": "Personal Use Only",
+		"name": "ND 4",
+		"thumbnail": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions_3.jpg",
+		"url": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions_3.png"
+	},
+	
+	{
+		"author": "Eldho",
+		"collections": "New Dimensions",
+		"copyright": "Personal Use Only",
+		"name": "ND 5",
+		"thumbnail": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions_4.jpg",
+		"url": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions_4.png"
+	},
+	
+	{
+		"author": "Eldho",
+		"collections": "New Dimensions",
+		"copyright": "Personal Use Only",
+		"name": "ND 6",
+		"thumbnail": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions_5.jpg",
+		"url": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions_5.png"
+	},
+	
+	{
+		"author": "Eldho",
+		"collections": "New Dimensions",
+		"copyright": "Personal Use Only",
+		"name": "ND 7",
+		"thumbnail": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions_6.jpg",
+		"url": "https://github.com/eldhomv/Hmm/blob/main/dimensions/dimensions_6.png"
+	},
 
 ]
