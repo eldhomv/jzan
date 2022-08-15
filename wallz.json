@@ -253,6 +253,15 @@
 		"author": "Eldho",
 		"collections": "Project Minimalism",
 		"copyright": "Personal Use Only",
+		"name": "PRJMNL 13",
+		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/minimalism/projectminimalism_13.jpg",
+		"url": "https://github.com/eldhomv/Hmm/raw/main/minimalism/projectminimalism_13.png"
+	},
+	
+	{
+		"author": "Eldho",
+		"collections": "Project Minimalism",
+		"copyright": "Personal Use Only",
 		"name": "PRJMNL 1",
 		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/minimalism/minimalism.jpg",
 		"url": "https://github.com/eldhomv/Hmm/raw/main/minimalism/minimalism.png"
@@ -1184,7 +1193,22 @@
 		"url": "https://github.com/eldhomv/Hmm/raw/main/landscape/landscape_11.png"
 	},
 	
-	
+	{
+		"author": "Eldho",
+		"collections": "Freeform",
+		"copyright": "Personal Use Only",
+		"name": "Freeform 45",
+		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/freeform/Freeform_45.jpg",
+		"url": "https://github.com/eldhomv/Hmm/raw/main/freeform/Freeform_45.png"
+	},
+	{
+		"author": "Eldho",
+		"collections": "Freeform",
+		"copyright": "Personal Use Only",
+		"name": "Freeform 46",
+		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/freeform/Freeform_46.jpg",
+		"url": "https://github.com/eldhomv/Hmm/raw/main/freeform/Freeform_46.png"
+	},
 	{
 		"author": "Eldho",
 		"collections": "Freeform",
