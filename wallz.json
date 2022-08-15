@@ -1670,6 +1670,39 @@
 	
 	{
 		"author": "Eldho",
+		"collections": "Gradient",
+		"copyright": "Personal Use Only",
+		"name": "Gradient 1",
+		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/Gradient/Gradient_1.jpg",
+		"url": "https://github.com/eldhomv/Hmm/raw/main/Gradient/Gradient_1.png"
+	},
+	{
+		"author": "Eldho",
+		"collections": "Gradient",
+		"copyright": "Personal Use Only",
+		"name": "Gradient 2",
+		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/Gradient/Gradient_2.jpg",
+		"url": "https://github.com/eldhomv/Hmm/raw/main/Gradient/Gradient_2.png"
+	},
+	{
+		"author": "Eldho",
+		"collections": "Gradient",
+		"copyright": "Personal Use Only",
+		"name": "Gradient 3",
+		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/Gradient/freeform_42.jpg",
+		"url": "https://github.com/eldhomv/Hmm/raw/main/Gradient/freeform_42.png"
+	},
+	{
+		"author": "Eldho",
+		"collections": "Gradient",
+		"copyright": "Personal Use Only",
+		"name": "Gradient 4",
+		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/Gradient/freeform_43.jpg",
+		"url": "https://github.com/eldhomv/Hmm/raw/main/Gradient/freeform_43.jpg"
+	},
+	
+	{
+		"author": "Eldho",
 		"collections": "New Dimensions",
 		"copyright": "Personal Use Only",
 		"name": "ND 1",
