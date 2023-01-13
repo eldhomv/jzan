@@ -1,6 +1,24 @@
 [
 	{
 		"author": "Eldho",
+		"collections": "Pixel",
+		"copyright": "Personal Use Only",
+		"name": "Pixel 13",
+		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/pixel/pixelUV3_1.png",
+		"url": "https://github.com/eldhomv/Hmm/raw/main/pixel/pixelUV3_1.png"
+	},
+	
+	{
+		"author": "Eldho",
+		"collections": "Pixel",
+		"copyright": "Personal Use Only",
+		"name": "Pixel 13",
+		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/pixel/pixelUV3.png",
+		"url": "https://github.com/eldhomv/Hmm/raw/main/pixel/pixelUV3.png"
+	},
+	
+	{
+		"author": "Eldho",
 		"collections": "Life",
 		"copyright": "Personal Use Only",
 		"name": "Life 6",
