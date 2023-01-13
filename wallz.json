@@ -1,6 +1,23 @@
 [
 	{
 		"author": "Eldho",
+		"collections": "Life",
+		"copyright": "Personal Use Only",
+		"name": "Life 9",
+		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/life/lifeUV3_1.jpg",
+		"url": "https://github.com/eldhomv/Hmm/raw/main/life/lifeUV3_1.png"
+	},
+	{
+		"author": "Eldho",
+		"collections": "Life",
+		"copyright": "Personal Use Only",
+		"name": "Life 8",
+		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/life/lifeUV3.jpg",
+		"url": "https://github.com/eldhomv/Hmm/raw/main/life/lifeUV3.png"
+	},
+	
+	{
+		"author": "Eldho",
 		"collections": "Pixel",
 		"copyright": "Personal Use Only",
 		"name": "Pixel 13",
@@ -21,7 +38,7 @@
 		"author": "Eldho",
 		"collections": "Life",
 		"copyright": "Personal Use Only",
-		"name": "Life 6",
+		"name": "Life 7",
 		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/life/life_6.jpg",
 		"url": "https://github.com/eldhomv/Hmm/raw/main/life/life_6.png"
 	},
@@ -29,7 +46,7 @@
 		"author": "Eldho",
 		"collections": "Life",
 		"copyright": "Personal Use Only",
-		"name": "Life 5",
+		"name": "Life 6",
 		"thumbnail": "https://github.com/eldhomv/Hmm/raw/main/life/life_5.jpg",
 		"url": "https://github.com/eldhomv/Hmm/raw/main/life/life_5.png"
 	},
